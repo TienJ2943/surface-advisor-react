@@ -1,5 +1,6 @@
 import FilterChip from "./FilterChip";
 import { BRANDS, CATEGORIES, RAMS, USES } from "../data/filterOptions";
+import React from "react";
 
 function Section({ label, children }) {
   return (

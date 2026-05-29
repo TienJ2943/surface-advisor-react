@@ -1,4 +1,6 @@
 import ProductCard from "./ProductCard";
+import React from "react";
+
 
 export default function ProductGrid({ products, selectedId, compareA, compareB, onSelect, onCompare, onReset, onAdvise }) {
   if (!products.length) {

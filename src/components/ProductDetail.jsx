@@ -1,4 +1,6 @@
 import { money } from "../utils/format";
+import React from "react";
+
 
 const rows = [
   ["Category", "cat"],

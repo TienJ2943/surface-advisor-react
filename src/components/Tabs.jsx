@@ -1,3 +1,6 @@
+import React from "react";
+
+
 const tabs = [
   { id: "products", label: "Products" },
   { id: "bundles", label: "M365 Bundles" },

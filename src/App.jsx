@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import React, { useMemo, useState } from "react";
 import Sidebar from "./components/Sidebar";
 import Tabs from "./components/Tabs";
 import ProductGrid from "./components/ProductGrid";
